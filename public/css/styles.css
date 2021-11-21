@@ -1,4 +1,26 @@
 * {
   box-sizing: border-box;
-  border: 1px solid red;
+  background-color: whitesmoke;
+  color: rgb(56, 56, 56);
+  /* border: 1px solid red; */
+}
+body {
+  margin-top: 50px;
+  height: 200px;
+  position: relative;
+}
+/* 
+header {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+footer {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+} */
+
+.content {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
 }
